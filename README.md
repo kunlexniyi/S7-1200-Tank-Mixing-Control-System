@@ -130,8 +130,11 @@ failure, not a convenience.
 | TONR mix timer | Batch recipe timer in DCS |
 
 ## Media
-HMI runtime screenshots of all five states, TIA Portal program
-structure, and live demo video — see the media folder.
+HMI runtime screenshots of all five states and TIA Portal program
+structure — see the media folder.
+
+## Video Demo
+[Watch the live demo on YouTube](https://youtu.be/88LiqQwhCOU)
 
 ## Author
 **Adekunle Adeniyi**
