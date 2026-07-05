@@ -133,6 +133,15 @@ failure, not a convenience.
 HMI runtime screenshots of all five states and TIA Portal program
 structure — see the media folder.
 
+### HMI — Mixing State
+![HMI Mixing](media/HMI_Mixing.png)
+
+### HMI — Alarm Active
+![HMI Alarmed](media/HMI_Alarmed.png)
+
+### TIA Portal Program Structure
+![Program Structure](media/TIA_Program_Structure.png)
+
 ## Video Demo
 [Watch the live demo on YouTube](https://youtu.be/88LiqQwhCOU)
 
