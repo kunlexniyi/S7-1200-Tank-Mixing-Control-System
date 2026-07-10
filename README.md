@@ -1,5 +1,6 @@
 ## Project 5: Tank Mixing Control System
 ## Siemens S7-1200 | TIA Portal V17 | WinCC Advanced HMI
+**Update:** the HMI has been reworked to ISA-101 High Performance HMI principles — see [High Performance HMI Rework](HIGH_PERFORMANCE_HMI.md) and the [video demo](https://www.youtube.com/watch?v=7RuPBUB_dJ0).
 
 **Author:** Adekunle Francis Adeniyi
 **Platform:** SIMATIC S7-1200 CPU 1214C DC/DC/DC
