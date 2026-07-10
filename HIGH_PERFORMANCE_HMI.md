@@ -10,7 +10,7 @@ Following peer feedback on the original HMI — colour used decoratively rather 
 ## Design Philosophy Applied
 
 - **Colour by exception:** on a healthy screen, the only colour present is bold dark blue live data. Red appears exclusively for alarm conditions.
-- **Grey-by-default:** screen background set to light grey (Gray 3, nearest KTP700 palette value 222,223,222); equipment rendered in neutral greys.
+- **Grey-by-default:** screen background set to light grey; equipment rendered in neutral greys.
 - **2D vessels:** tank drawn with a thin black outline and uniform interior — no gradients, no animated internals.
 - **Hollow/solid state grammar:** valves, sensors, and mixer are hollow (white fill, grey border) when inactive and solid mid-grey when active. One consistent visual language across all field devices.
 - **Text discipline:** static labels in plain dark grey on transparent backgrounds; mixed case for readability with UPPERCASE reserved for equipment tags (HI/LO); live data in bold dark blue; no leading zeros.
